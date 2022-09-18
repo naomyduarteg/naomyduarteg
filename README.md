@@ -8,7 +8,7 @@ class Naomy:
     self.hobbies = ['Reading', 'Writing']
     
     def becoming_a_data_scientis(self):
-      return f"Always improving my knowledge of Statistics, Linear Algebra, Python and SQL."
+      return f"Always improving my knowledge of Statistics, Linear Algebra, Python and databases (SQL, NoSQL)."
 ```
 
 <a href="https://www.linkedin.com/in/naomyduarteg" alt="linkedin" target="_blank">
