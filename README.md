@@ -29,7 +29,5 @@ class Naomy:
 
 # <h2 align="center"> A physicist diving into the world of data science. Here you can find some of my projects.</h2>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=naomyduarteg&show_icons=true&theme=tokyonight"/>
-
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naomyduarteg&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
                   
