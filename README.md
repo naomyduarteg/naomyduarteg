@@ -5,7 +5,7 @@ class Naomy:
     self.surname = 'Duarte Gomes'
     self.education = ['USP', 'Institut dOptique']
     self.interests = ['Data Science', 'Machine Learning', 'Physics', 'Animal Welfare', 'Python']
-    self.hobbies = ['Reading', 'Writing']
+    self.hobbies = ['Reading', 'Writing', 'Traveling']
     
     def becoming_a_data_scientis(self):
       return f"Always improving my knowledge of Statistics, Linear Algebra, Python and databases (SQL, NoSQL)."
