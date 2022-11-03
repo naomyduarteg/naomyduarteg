@@ -3,7 +3,7 @@ class Naomy:
   def __init__(self):
     self.name = 'Naomy'
     self.surname = 'Duarte Gomes'
-    self.education = ['USP', 'Institut dOptique']
+    self.education = ['University of São Paulo', 'Institut dOptique']
     self.interests = ['Data Science', 'Machine Learning', 'Physics', 'Animal Welfare', 'Python']
     self.hobbies = ['Reading', 'Writing', 'Traveling']
     
