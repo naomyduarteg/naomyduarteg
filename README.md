@@ -4,7 +4,7 @@ class Naomy:
     self.name = 'Naomy'
     self.surname = 'Duarte Gomes'
     self.education = ['University of São Paulo', 'Institut dOptique']
-    self.interests = ['Data Science', 'Machine Learning', 'Physics', 'Animal Welfare', 'Python']
+    self.interests = ['Physics', 'Quantum Scienc', 'Data Science', 'Machine Learning', 'Animal Welfare', 'Python']
     self.hobbies = ['Reading', 'Writing', 'Travelling']
     
     def becoming_a_data_scientis(self):
